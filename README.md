@@ -1,4 +1,3 @@
+### Projeto simples de uma tela de Login e Cadastro de usuário.
 
-
-Uploading Login - Google Chrome 2024-04-02 12-03-48.mp4…
-
+https://github.com/BrendoLopez/login-trainee/assets/121137098/f49060b9-5ffe-4feb-8652-7ab261d1b814
